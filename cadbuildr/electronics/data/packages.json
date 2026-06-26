@@ -1,0 +1,33 @@
+{
+  "R_0402": {"family": "chip", "mounting": "smd", "ipc_name": "RESC1005X35N", "kicad_fp": "Resistor_SMD:R_0402_1005Metric", "description": "0402 chip",
+    "dims": {"body_l": 1.0, "body_w": 0.5, "body_h": 0.35, "term_len": 0.25, "pins": 2, "size": "1005"}},
+  "R_0603": {"family": "chip", "mounting": "smd", "ipc_name": "RESC1608X55N", "kicad_fp": "Resistor_SMD:R_0603_1608Metric", "description": "0603 chip",
+    "dims": {"body_l": 1.6, "body_w": 0.8, "body_h": 0.5, "term_len": 0.3, "pins": 2, "size": "1608"}},
+  "R_0805": {"family": "chip", "mounting": "smd", "ipc_name": "RESC2012X55N", "kicad_fp": "Resistor_SMD:R_0805_2012Metric", "description": "0805 chip",
+    "dims": {"body_l": 2.0, "body_w": 1.25, "body_h": 0.55, "term_len": 0.4, "pins": 2, "size": "2012"}},
+  "R_1206": {"family": "chip", "mounting": "smd", "ipc_name": "RESC3216X55N", "kicad_fp": "Resistor_SMD:R_1206_3216Metric", "description": "1206 chip",
+    "dims": {"body_l": 3.2, "body_w": 1.6, "body_h": 0.55, "term_len": 0.5, "pins": 2, "size": "3216"}},
+
+  "SOIC-8": {"family": "gullwing_dual", "mounting": "smd", "ipc_name": "SOIC127P600X175-8N", "kicad_fp": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm", "jedec": "MS-012",
+    "dims": {"pins": 8, "pitch": 1.27, "lead_span": 6.0, "lead_len": 0.8, "lead_w": 0.42, "body_l": 4.9, "body_w": 3.9, "body_h": 1.5}},
+  "SOIC-14": {"family": "gullwing_dual", "mounting": "smd", "ipc_name": "SOIC127P600X175-14N", "kicad_fp": "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm", "jedec": "MS-012",
+    "dims": {"pins": 14, "pitch": 1.27, "lead_span": 6.0, "lead_len": 0.8, "lead_w": 0.42, "body_l": 8.65, "body_w": 3.9, "body_h": 1.5}},
+  "SOIC-16": {"family": "gullwing_dual", "mounting": "smd", "ipc_name": "SOIC127P600X175-16N", "kicad_fp": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm", "jedec": "MS-012",
+    "dims": {"pins": 16, "pitch": 1.27, "lead_span": 6.0, "lead_len": 0.8, "lead_w": 0.42, "body_l": 9.9, "body_w": 3.9, "body_h": 1.5}},
+
+  "TQFP-32": {"family": "gullwing_quad", "mounting": "smd", "ipc_name": "QFP80P900X900X120-32N", "kicad_fp": "Package_QFP:TQFP-32_7x7mm_P0.8mm", "jedec": "MS-026",
+    "dims": {"pins": 32, "pitch": 0.8, "lead_span": 9.0, "lead_len": 0.6, "lead_w": 0.37, "body": 7.0, "body_h": 1.0}},
+  "TQFP-44": {"family": "gullwing_quad", "mounting": "smd", "ipc_name": "QFP80P1200X1200X120-44N", "kicad_fp": "Package_QFP:TQFP-44_10x10mm_P0.8mm", "jedec": "MS-026",
+    "dims": {"pins": 44, "pitch": 0.8, "lead_span": 12.0, "lead_len": 0.6, "lead_w": 0.37, "body": 10.0, "body_h": 1.0}},
+  "LQFP-64": {"family": "gullwing_quad", "mounting": "smd", "ipc_name": "QFP50P1200X1200X140-64N", "kicad_fp": "Package_QFP:LQFP-64_10x10mm_P0.5mm", "jedec": "MS-026",
+    "dims": {"pins": 64, "pitch": 0.5, "lead_span": 12.0, "lead_len": 0.6, "lead_w": 0.27, "body": 10.0, "body_h": 1.4}},
+
+  "DIP-8": {"family": "dip", "mounting": "tht", "ipc_name": "DIP254P762-8", "kicad_fp": "Package_DIP:DIP-8_W7.62mm", "jedec": "MS-001",
+    "dims": {"pins": 8, "pitch": 2.54, "row_mm": 7.62, "lead_d": 0.5}},
+  "DIP-14": {"family": "dip", "mounting": "tht", "ipc_name": "DIP254P762-14", "kicad_fp": "Package_DIP:DIP-14_W7.62mm", "jedec": "MS-001",
+    "dims": {"pins": 14, "pitch": 2.54, "row_mm": 7.62, "lead_d": 0.5}},
+  "DIP-16": {"family": "dip", "mounting": "tht", "ipc_name": "DIP254P762-16", "kicad_fp": "Package_DIP:DIP-16_W7.62mm", "jedec": "MS-001",
+    "dims": {"pins": 16, "pitch": 2.54, "row_mm": 7.62, "lead_d": 0.5}},
+  "DIP-28": {"family": "dip", "mounting": "tht", "ipc_name": "DIP254P762-28", "kicad_fp": "Package_DIP:DIP-28_W7.62mm", "jedec": "MS-001",
+    "dims": {"pins": 28, "pitch": 2.54, "row_mm": 7.62, "lead_d": 0.5}}
+}

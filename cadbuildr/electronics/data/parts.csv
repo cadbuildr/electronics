@@ -1,0 +1,11 @@
+mpn,manufacturer,category,package,value,tolerance,color
+RC0805FR-0710KL,Yageo,Resistor,R_0805,10k,1%,
+RC0603FR-074K7L,Yageo,Resistor,R_0603,4.7k,1%,
+GRM188R71C104KA01,Murata,Capacitor,R_0603,100n,10%,#caa46a
+CL21A106KOQNNNE,Samsung,Capacitor,R_0805,10u,10%,#caa46a
+NE555P,Texas Instruments,IC,DIP-8,,,
+LM358DR,Texas Instruments,IC,SOIC-8,,,
+ATMEGA328P-PU,Microchip,MCU,DIP-28,,,
+ATMEGA328P-AU,Microchip,MCU,TQFP-32,,,
+STM32F103RBT6,STMicroelectronics,MCU,LQFP-64,,,
+74HC595D,Nexperia,IC,SOIC-16,,,
