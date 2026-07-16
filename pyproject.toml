@@ -1,6 +1,6 @@
 [project]
 name = "cadbuildr-electronics"
-version = "0.1.0"
+version = "0.1.1"
 description = "3D models of common PCB components plus a footprint-driven framework for assembling them into boards"
 readme = "README.md"
 requires-python = ">=3.10.0,<4.0.0"
@@ -9,7 +9,7 @@ authors = [
 ]
 dependencies = [
     "cadbuildr-foundation>=0.2.12,<0.3.0",
-    "cadbuildr-stdlib>=0.0.0.2,<0.0.1",
+    "cadbuildr-stdlib>=0.1.0,<0.2.0",
 ]
 
 [dependency-groups]
